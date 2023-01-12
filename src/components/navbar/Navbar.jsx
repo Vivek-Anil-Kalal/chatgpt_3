@@ -1,7 +1,7 @@
 import React from 'react'
 import './navbar.css'
 import { useState } from 'react'
-import { RiMenu3Line, RiCloseLin, RiCloseLine } from 'react-icons/ri'
+import { RiMenu3Line, RiCloseLine } from 'react-icons/ri'
 import logo from '../../assets/logo.svg'
 
 const Menu = () => {
